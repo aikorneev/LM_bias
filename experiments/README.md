@@ -1,0 +1,2 @@
+# EventsDetectionResearch/notebooks/
+During ML course, I have conducted my own experiments using pipeline from the original research paper. I have tried to debias language models with respect to social groups of different ages. As a result, I managed to apply the approach of authors and to decrease a local bias (global bias was out of the scope of my experiments). My experiments are described in chapter 3 of PDF report.
